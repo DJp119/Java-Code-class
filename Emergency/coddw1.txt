@@ -1,0 +1,17 @@
+
+C:\Users\admin>d:
+
+D:\>21BCE6061
+'21BCE6061' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\>21BCE6061:
+'21BCE6061:' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\>cd:
+The filename, directory name, or volume label syntax is incorrect.
+
+D:\>cd 21BCE6061
+
+D:\21BCE6061>javac OperatorExample.java

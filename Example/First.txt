@@ -1,0 +1,9 @@
+class First
+{
+public static void main(string args[])
+{
+int c = 5 , b = 3 , a ;
+a = c+b;
+System.out.println("a value is: "+a);
+}
+}

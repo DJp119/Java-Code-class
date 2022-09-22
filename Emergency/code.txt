@@ -1,0 +1,33 @@
+
+C:\>d:
+
+D:\21BCE6061>javac Bitand.java
+Bitand.java:3: error: int cannot be dereferenced
+                int number1 = 12 . number2 = 25 , result;
+                                 ^
+Bitand.java:6: error: cannot find symbol
+                        result = number1 & number2;
+                                           ^
+  symbol:   variable number2
+  location: class Bitand
+2 errors
+
+D:\21BCE6061>javac Bitand.java
+
+D:\21BCE6061>java Bitand
+8
+
+D:\21BCE6061>d;
+'d' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\21BCE6061>d:
+
+D:\21BCE6061>d:
+
+D:\21BCE6061>javac Bitor.java
+
+D:\21BCE6061>java Bitor
+29
+
+D:\21BCE6061>
